@@ -15,5 +15,10 @@ public class Level1 {
 
     }
 
+    public static void newUpdateMethod(){
+
+        
+    }
+
 
 }
